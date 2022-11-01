@@ -1,2 +1,2 @@
 # Neighborly-Hiking
-A biking club
+My biking club's website
