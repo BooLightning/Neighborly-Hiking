@@ -1,4 +1,4 @@
-      html{
+    html{
    font-family: Arial, Helvetica, sans-serif;
    background-color: black;
    background-image: url("https://boolightning.github.io/Neighborly-Hiking/PHOTOS/Sketch002.jpeg");
@@ -24,7 +24,7 @@
     color: white;
    }
    
-   a{
+   .loginlink{
     position: absolute;
     top: 25px;
     right: 25px;
@@ -62,4 +62,9 @@
     background-color: orange;  
     color: white;  
     text-align: center;  
-    }  
+    }
+    
+    a{
+    color: black;
+    text-decoration: none;
+   }
